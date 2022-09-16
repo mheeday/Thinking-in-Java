@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<people>
+    <person>
+        <first>Dr. Bunsen</first>
+        <last>Honeydew</last>
+        <address>Street 1</address>
+        <city>New York</city>
+        <state>NY</state>
+        <zipCode>10001</zipCode>
+    </person>
+    <person>
+        <first>Gonzo</first>
+        <last>The Great</last>
+        <address>Street 2</address>
+        <city>New York</city>
+        <state>NY</state>
+        <zipCode>20002</zipCode>
+    </person>
+    <person>
+        <first>Phillip J.</first>
+        <last>Fry</last>
+        <address>Street 3</address>
+        <city>New York</city>
+        <state>NY</state>
+        <zipCode>30003</zipCode>
+    </person>
+</people>
